@@ -1,0 +1,5 @@
+psutil==5.9.2
+PyAutoGUI==0.9.53
+tldextract==3.4.0
+win10toast==0.9
+WMI==1.5.1

@@ -1,0 +1,14 @@
+INFO: 2022-10-07 10:10:12,672 > Verified failed, create log file;
+INFO: 2022-10-07 10:10:15,138 > Steam Location found;
+INFO: 2022-10-07 10:10:16,713 > Steam verified failed, locate and launch Steam..;
+INFO: 2022-10-07 10:10:30,135 > Start running Script;
+INFO: 2022-10-07 10:10:30,135 > Start running Don't Starve Together;
+INFO: 2022-10-07 10:10:30,398 > Wait 55 seconds;
+INFO: 2022-10-07 10:11:25,412 > Finish running Don't Starve Together;
+INFO: 2022-10-07 10:11:27,832 > Move mouse in position x = 960, y = 555 for open first part of the gift;
+INFO: 2022-10-07 10:11:27,956 > Click mouse in position x = 960, y = 555 for open first part of the gift;
+INFO: 2022-10-07 10:11:32,387 > Move mouse in position x = 871, y = 728 for open second part of the gift;
+INFO: 2022-10-07 10:11:32,514 > Click mouse in position x = 871, y = 728 for open first part of the gift;
+INFO: 2022-10-07 10:11:33,947 > Move mouse in position x = 183, y = 870 for QUIT Button;
+INFO: 2022-10-07 10:11:35,181 > Click mouse in position x = 183, y = 870 for QUIT Button;
+INFO: 2022-10-07 10:11:37,307 > Click mouse around position x = 794, y = 621 for YES Button;
